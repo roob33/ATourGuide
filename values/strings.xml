@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">A Tour Guide</string>
+    <string name="the_city_jeddah">A Tour Guide To The City Jeddah!</string>
+    <string name="enter">ENTER</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_title_1">HOTEL</string>
+    <string name="tab_title_2">FOOD</string>
+    <string name="tab_title_3">SHOP</string>
+    <string name="tab_title_4">SPOT</string>
+    <string name="holiday_inn_hotel">Holiday Inn Hotel</string>
+    <string name="sheraton_jeddah_hotel">Sheraton Jeddah Hotel</string>
+    <string name="the_ritz_carlton_jeddah">The Ritz-Carlton Jeddah</string>
+    <string name="the_east">Waldorf Astoria</string>
+    <string name="hilton_jeddah">Hilton Jeddah</string>
+    <string name="park_haya">Park Haya</string>
+    <string name="radisson_blu">Radisson Blu</string>
+    <string name="sofitel_corniche_hotel">Sofitel Corniche Hotel</string>
+    <string name="moevenpick">Moevenpick Resort Al Nawras</string>
+    <string name="rosewood_hotel_jeddah">Rosewood Hotel Jeddah</string>
+    <string name="food1">Texas Rod House</string>
+    <string name="food2">Byblos</string>
+    <string name="food3">The Cheesecake Factory</string>
+    <string name="food4">Shababik</string>
+    <string name="food5">Laila Restaurant</string>
+    <string name="food6">Sakura Japanese Restaurant</string>
+    <string name="food7">SURA</string>
+    <string name="food8">STARBUCKS COFFEE</string>
+    <string name="food9">Pro 92 Coffee</string>
+    <string name="food10">Breakfast Fares</string>
+    <string name="time_food">8AM - 11PM</string>
+    <string name="shop1">Jeddah International Market</string>
+    <string name="shop2">Salam Mall</string>
+    <string name="shop3">Arab mall</string>
+    <string name="shop4">Oasis Mall</string>
+    <string name="shop5">RDSY Mall</string>
+    <string name="shop6">Mega Mall</string>
+    <string name="shop7">Masterpieces of libraries</string>
+    <string name="shop8">Jarir Bookstore</string>
+    <string name="shop9">AL tahaliya Center</string>
+    <string name="shop10">Stars Avino</string>
+    <string name="time_shop">9AM - 12PM</string>
+    <string name="spot1">Abdul Raouf Hassan Khalil Museum</string>
+    <string name="spot2">Historical Jeddah</string>
+    <string name="spot3">King Fahad Fountain</string>
+    <string name="spot4">The longest mast in the world</string>
+    <string name="spot5">Jeddah Islamic Port</string>
+    <string name="spot6">International Medical Center</string>
+    <string name="stars5">★★★★★</string>
+    <string name="stars4">★★★★☆</string>
+    <string name="place_type">Milestones</string>
+    <string name="place_type2">hospital</string>
+
+</resources>
